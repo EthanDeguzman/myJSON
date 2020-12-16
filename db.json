@@ -1,14 +1,7 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "games": [
+     { "name": "Pokemon Emerald", "console": "Game Boy Advance", "id": 1, "release-date": "9-16-2004"},
+    { "name": "Pokemon Yellow", "console": "Game Boy", "id": 2, "release-date": "9-12-1998"},
+    { "name": "Pokemon Sword", "console": "Nintendo Switch", "id": 3, "release-date": "11-15-2019"}
+  ]
 }
